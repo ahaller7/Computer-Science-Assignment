@@ -1,0 +1,3 @@
+This project took me approximately 20-25 hours to complete.
+Some of the unit tests were hard to create or it was confusing what was expected, but i think i have done the unit tests to the best of my ability.
+I learned a lot from this assignment. It is the most difficult coding project that I have done so far.

@@ -1,0 +1,9 @@
+7 Days in Entebbe,fun,foreign,sad,boring,slow,romance
+12 Strong,war,violence,foreign,sad,action,romance,bloody
+A Fantastic Woman,fun,foreign,sad,romance
+A Wrinkle in Time,book,witty,historical,boring,slow,romance
+Acts of Violence,war,violence,historical,action
+Annihilation,fun,war,violence,gore,action
+Armed,foreign,sad,war,violence,cgi,fancy,action,bloody
+Black '47,fun,clever,witty,boring,slow,action,bloody
+Black Panther,war,violence,comicbook,expensive,action,bloody
